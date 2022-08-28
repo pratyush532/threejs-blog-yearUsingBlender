@@ -1,7 +1,13 @@
-#One year of doing Blender
+# A blog using ThreeJS -My one year doing 3d art in Blender
 
-- Today is 27/08/2022 and I started learning Blender about a year ago. I wanted to just talk about my goals, learning experience and pitfalls - so here goes!
-- My main aim while learning Blender was to make cool art for my music. I have since been only using my art in my music.
-- The biggest setback I am receiving is that my system can't really handle too much - like too much geometry from subdivision, scattering any object and animation are few things that brick the system.
-- So for a year i have been sticking to static renders with few objects in the environment. Environments is something I am the weakest at so that is where I should improve.
-- The feature I was most excited for and which gave me the best results is the
+thanks to fireship for the amazing tutorial
+Original tutorial: [here](https://www.youtube.com/watch?v=Q7AOvWpIVHU&t=600s)
+
+## Deployed
+
+on netlify : [blog in full glory](https://630bb65fb736cd01a5509d05--preeminent-rolypoly-6833f5.netlify.app/) 
+
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
