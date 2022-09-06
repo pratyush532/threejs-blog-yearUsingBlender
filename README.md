@@ -8,7 +8,7 @@ Original tutorial: [here](https://www.youtube.com/watch?v=Q7AOvWpIVHU&t=600s)
 on netlify : [blog in full glory](https://630bb65fb736cd01a5509d05--preeminent-rolypoly-6833f5.netlify.app/) 
 
 
-##screenshot
+## screenshot
 ![image](https://user-images.githubusercontent.com/106448796/188629599-ad87a40d-d569-4114-88e1-4a7e73d9a75a.png)
 
 ## License
