@@ -18,6 +18,8 @@ canvas {
 
 body{
   background-image: url("https://pbs.twimg.com/media/FbPH3k_aAAAtb40?format=jpg&name=large");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 main {
   width: 100vw;
