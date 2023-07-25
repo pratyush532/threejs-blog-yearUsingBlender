@@ -5,7 +5,7 @@ Original tutorial: [here](https://www.youtube.com/watch?v=Q7AOvWpIVHU&t=600s)
 
 ## Deployed
 
-on netlify : [blog in full glory](https://630bb65fb736cd01a5509d05--preeminent-rolypoly-6833f5.netlify.app/) 
+on netlify : [blog in full glory](https://main--preeminent-rolypoly-6833f5.netlify.app/) 
 
 
 ## screenshot
